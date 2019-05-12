@@ -1,0 +1,11 @@
+.Question {
+  background-image: url("./index_wallpaper.jpg");
+  height: 100vh;
+}
+.questionMain{
+  background-repeat: round;
+  height:100vh;
+}
+.questionLoading{
+  margin-top: 20px;
+}
